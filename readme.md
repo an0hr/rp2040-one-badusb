@@ -18,7 +18,7 @@ ENGLİSH
 Two files you need:
 
 **1. CircuitPython `.uf2`**
-→ https://circuitpython.org/board/raspberry_pi_pico
+→ https://circuitpython.org/board/waveshare_rp2040_one/
 
 **2. Adafruit HID Library**
 → https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
@@ -39,13 +39,17 @@ TÜRKÇE
    İki dosya lazım:
 
 **1. CircuitPython `.uf2`**
-→ https://circuitpython.org/board/raspberry_pi_pico
+→ https://circuitpython.org/board/waveshare_rp2040_one/
 
 **2. Adafruit HID Kütüphanesi**
 → https://github.com/adafruit/Adafruit_CircuitPython_Bundle/releases
 → En son sürümü indir, içinden `adafruit_hid` klasörünü al
 
 ----------------------------------------------------------------------------------------------
+
+kütüpanenin türkçesini bulamadım ama olsun 
+yapan yada bulan olursa bana haber etsin
+buarada "coding.md" dosyasında nasıl kullanılacagı gösteriliyor
 
 btw that how you program it in turkish and english
 and the keyboard it only supports US style
