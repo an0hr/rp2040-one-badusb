@@ -2,7 +2,7 @@
 
 # rp2040-one-badusb
 if u use this repo badly im not responsible and all the resposibillity is on your shoulders
-*Bu depoyu kötü niyetle kullanırsan bundan sorumlu değilim; tüm sorumluluk sana aittir.*
+*Bu repoyu kötü niyetle kullanırsan bundan sorumlu değilim; tüm sorumluluk sana aittir.*
 ------------------------------------------------------------------------------------------
 ENGLİSH
 
@@ -27,7 +27,7 @@ Two files you need:
 --------------------------------------------------------------------------------------------
 TÜRKÇE
  
- *Bu depoyu kötü niyetle kullanırsan bundan sorumlu değilim; tüm sorumluluk sana aittir.*
+ *Bu repoyu kötü niyetle kullanırsan bundan sorumlu değilim; tüm sorumluluk sana aittir.*
  
 1. circuitpython.org'dan RP2040 için `.uf2` dosyasını indir
 2. BOOTSEL butonuna basılı tutarak USB'ye tak → `RPI-RP2` sürücüsü açılır
