@@ -1,16 +1,20 @@
 
 
 # rp2040-one-badusb
-hi i made a badusb for the board rp2040-one.
-it is hella easy 
-1. step flash your board with the 2UF file given
-2. or the link no problem:
-3. flash it with circuitpy
-4. then add the lib file i give
-5. or the link bellow
-6. name the your script "code.py"
-7. and it gets exocuted
-8. imma give the file about anything and imma help for the libary codes
+
+1. circuitpython.org'dan RP2040 için `.uf2` dosyasını indir
+2. BOOTSEL butonuna basılı tutarak USB'ye tak → `RPI-RP2` sürücüsü açılır
+3. `.uf2` dosyasını sürücüye sürükle → `CIRCUITPY` sürücüsü açılır
+4. Adafruit CircuitPython Bundle'ı indir, `adafruit_hid` klasörünü `CIRCUITPY/lib/` içine koy
+5. `code.py` dosyasını `CIRCUITPY/` klasörüne kopyala
+6. USB'yi çıkar, tekrar tak → otomatik çalışır 🎉
+
+1. Download the `.uf2` file for RP2040 from circuitpython.org
+2. Hold BOOTSEL button and plug into USB → `RPI-RP2` drive opens
+3. Drag the `.uf2` file into the drive → `CIRCUITPY` drive opens
+4. Download Adafruit CircuitPython Bundle, copy `adafruit_hid` folder into `CIRCUITPY/lib/`
+5. Copy `code.py` into `CIRCUITPY/`
+6. Unplug and replug → runs automatically 🎉
 
 btw that how you program it in turkish and english
 and the keyboard it only supports US style
