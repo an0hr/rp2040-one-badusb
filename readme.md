@@ -2,6 +2,7 @@
 
 # rp2040-one-badusb
 if u use this repo badly im not responsible and all the resposibillity is on your shoulders
+*Bu depoyu kötü niyetle kullanırsan bundan sorumlu değilim; tüm sorumluluk sana aittir.*
 ------------------------------------------------------------------------------------------
 ENGLİSH
 
